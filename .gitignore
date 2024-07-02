@@ -1,0 +1,7 @@
+# Sensitive files
+/.env
+
+
+# Project exclude paths
+/target/
+/target/scala-2.13/classes/
